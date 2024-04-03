@@ -4,7 +4,7 @@ const express = require('express');
 const app = express();
 app.use(express.static('public'));
 
-const YOUR_DOMAIN = 'https://stripe-react-378282986e9c.herokuapp.com';
+const YOUR_DOMAIN = 'stripe-react-378282986e9c.herokuapp.com';
 
 app.use(express.json());
 app.post('/create-checkout-session', async (req, res) => {
