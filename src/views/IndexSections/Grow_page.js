@@ -95,7 +95,7 @@ class BasicElements extends React.Component {
                   </div>
                   <div className="text-center pt-3 pb-1">
                     
-                    <a  href="stripe-reactapp-6f7eb0d918b3.herokuapp.com/downloads/grow/" target="_blank" rel="noopener noreferrer">
+                    <a  href="https://stripe-reactapp-6f7eb0d918b3.herokuapp.com/downloads/grow/" target="_blank" rel="noopener noreferrer">
                       <Button className=" rounded w-30 mr-5 text-center" color="dark" type="button">
                         <i className="fa fa-eye " style={{ fontSize: "40px" }}></i>
                       </Button>
